@@ -1,0 +1,12 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alizhdanov/tmp.git",
+  "author": "Ali Zhdanov <ali.zhdanov@oaks-lab.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "yargs": "^14.2.0"
+  }
+}
